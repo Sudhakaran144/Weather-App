@@ -1,0 +1,25 @@
+.hourForecast{
+    margin: .5em;
+}
+.h-container{
+    width: 70px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: .3em;
+    border-radius: 10px;
+    background:rgb(242, 245, 246);
+}
+.h-container p{
+    font-size: 13px;
+    color: grey;
+}
+.h-container img{
+    width: 40px;
+}
+.h-container h3{
+    font-size: 15px;
+    margin-left: 5px;
+}

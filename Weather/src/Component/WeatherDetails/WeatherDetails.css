@@ -1,0 +1,32 @@
+.w-details{
+    margin-top: 30px;
+    width: 100%;
+    height: auto;
+    background: rgb(228, 236, 237);
+    border-radius: 20px;
+    padding: 10px 25px ;
+}
+.w-container p{
+    color: grey;
+}
+.w-content{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap:20px 40px;
+    margin: 20px 0 10px 0;
+}
+.w-condition-container{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+    background:rgb(242, 245, 246);
+    padding: 0 30px;
+}
+.w-condition-container span {
+    color: grey;
+    font-size: 28px;
+    display: flex;
+    align-items: center;
+}

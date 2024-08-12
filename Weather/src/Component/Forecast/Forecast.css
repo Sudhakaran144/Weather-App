@@ -1,0 +1,17 @@
+.forecast{
+    width: 100%;
+    height: 180px;
+    background: rgb(228, 236, 237);
+    border-radius: 20px;
+    padding:20px 15px ;
+    
+}
+.f-container p{
+    color: grey;
+    margin-left: 10px;
+    margin-bottom: 3px;
+}
+.h-forecast{
+    display: flex;
+    gap: 10%;
+}

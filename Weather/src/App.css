@@ -1,0 +1,9 @@
+.app{
+     
+    padding: 20px 10%;
+}
+.app .loader{
+    width: 100%;
+    margin: 20% 43%;
+    color: yellowgreen;
+}
